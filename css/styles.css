@@ -1,5 +1,52 @@
-/*GLOBAL STYLING*/
+/* STYLE BOARD
+colors:
 
+fonts:
+  font-family: 'Bangers', cursive;
+  font-family: 'Questrial', sans-serif;
+*/
+
+/*GLOBAL STYLE*/
 body {
-  background: #E46425;
+  background: #F5DB12;
 }
+
+h1 {
+  font-family: 'Bangers', cursive;
+  font-size: 8em;
+  letter-spacing: 20px;
+  color: #2E003B;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Bangers', cursive;
+  color: #2F559A;
+}
+
+p {
+  font-family: 'Questrial', sans-serif;
+  font-size: .75em;
+  line-height: 1.5em;
+}
+
+section img {
+  max-width: 300px;
+}
+
+li {
+  text-decoration: none;
+  display: inline-block;
+  float: right;
+  padding: 15px;
+  margin: 10px;
+  background-color: #5AADC5;
+  border-radius: 30%;
+  font-family: 'Questrial', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #F5DB12;
+}
+
